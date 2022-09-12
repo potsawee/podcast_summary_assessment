@@ -1,6 +1,6 @@
 Podcast Summary Assessment Data
 ===================================
-Data resource in the paper **"Podcast Summary Assessment: A Resource for Evaluating Summary Assessment Methods"**
+Data resource in the paper **"Podcast Summary Assessment: A Resource for Evaluating Summary Assessment Methods"** | https://arxiv.org/abs/2208.13265
 
 ## Overview
 - This dataset is a collection of podcast summaries that were evaluated by humsn experts at the Podcast Challenge at TREC2020.
@@ -26,3 +26,13 @@ Data resource in the paper **"Podcast Summary Assessment: A Resource for Evaluat
 		- ```attributes```: human annotation for 8 attributes
 		- ```episode_id```: podcast episode ID
 		- ```system_id```: (anonymized) system ID
+
+## Citation
+```
+@article{manakul2022podcast,
+  title={Podcast Summary Assessment: A Resource for Evaluating Summary Assessment Methods},
+  author={Manakul, Potsawee and Gales, Mark JF},
+  journal={arXiv preprint arXiv:2208.13265},
+  year={2022}
+}
+```
