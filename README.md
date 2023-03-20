@@ -8,6 +8,16 @@ Data resource in the paper **"Podcast Summary Assessment: A Resource for Evaluat
 - This dataset has 3580 examples, where each example is a trascript-summary pair with the associated human score. 
 
 ## Usage
+
+### Option1: HuggingFace
+[update 20/03/2023] the dataset is available on [HuggingFace](https://huggingface.co/datasets/potsawee/podcast_summary_assessment)
+
+	from datasets import load_dataset
+	dataset = load_dataset("potsawee/podcast_summary_assessment")
+
+
+
+### Option2: Manual Download
 - **Download link**: <https://drive.google.com/file/d/1HtFj27LvV_KlsjhflrGclLb3w0QiR4tW/>, which consists of one data file in JSON format ```podcast_summary_assessment.json``` about 100MB.
 - **Example usage**: In Python
 
