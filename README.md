@@ -4,7 +4,7 @@ Data resource in the paper **"Podcast Summary Assessment: A Resource for Evaluat
 
 ## Overview
 - This dataset is a collection of podcast summaries that were evaluated by humsn experts at the Podcast Challenge at TREC2020.
-- The entire podcast dataset for summarization (without summary evaluation annotation) can be found at [this link] (https://podcastsdataset.byspotify.com/).
+- The entire podcast dataset for summarization (without summary evaluation annotation) can be found at [this link](https://podcastsdataset.byspotify.com/).
 - This dataset has 3580 examples, where each example is a trascript-summary pair with the associated human score. 
 
 ## Usage
